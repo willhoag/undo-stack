@@ -1,6 +1,8 @@
 undo-stack
 =====
 
+A simple undo/redo library with optional undo chunking (batch undos) and a pluggable logger with nice output for your viewing pleasure.
+
 [![NPM](https://nodei.co/npm/undo-stack.png)](https://nodei.co/npm/undo-stack/)
 
 [![build status](https://secure.travis-ci.org/willhoag/undo-stack.png)](http://travis-ci.org/willhoag/undo-stack)
