@@ -1,6 +1,6 @@
 {
   "name": "undo-stack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple undo/redo library with optional undo chunking (batch undos)",
   "main": "dist/index.js",
   "repository": {
