@@ -1,6 +1,6 @@
 {
   "name": "undo-stack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple undo/redo library with optional undo chunking (batch undos)",
   "main": "dist/index.js",
   "repository": {
@@ -25,7 +25,7 @@
     "karma-firefox-launcher": "~0.1.2",
     "karma-phantomjs-launcher": "~0.1.1"
   },
-  "scripts":{
+  "scripts": {
     "test": "./node_modules/karma/bin/karma start",
     "prepublish": "./node_modules/coffee-script/bin/coffee -b -o ./dist -c ./src"
   },
@@ -35,11 +35,11 @@
     ]
   },
   "keywords": [
-	  "history",
-	  "undo",
-	  "redo",
-	  "chunk",
-	  "batch"
+    "history",
+    "undo",
+    "redo",
+    "chunk",
+    "batch"
   ],
   "author": {
     "name": "Will Hoag",
